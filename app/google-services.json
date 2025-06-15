@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151790066158",
+    "project_id": "android-5fbbc",
+    "storage_bucket": "android-5fbbc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151790066158:android:cdccf5465af834db31d6ff",
+        "android_client_info": {
+          "package_name": "com.videoconf.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzhP0R5oZ5YS13ZuKoiCwxOsM3PyUWmlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+} 

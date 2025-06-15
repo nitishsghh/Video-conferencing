@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\src\main\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\src\main\res"><file path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\values\colors.xml" qualifiers=""><color name="primary">#6750A4</color><color name="on_primary">#FFFFFF</color><color name="primary_container">#EADDFF</color><color name="on_primary_container">#21005E</color><color name="secondary">#625B71</color><color name="on_secondary">#FFFFFF</color><color name="secondary_container">#E8DEF8</color><color name="on_secondary_container">#1E192B</color><color name="tertiary">#7D5260</color><color name="on_tertiary">#FFFFFF</color><color name="tertiary_container">#FFD8E4</color><color name="on_tertiary_container">#370B1E</color><color name="error">#B3261E</color><color name="on_error">#FFFFFF</color><color name="error_container">#F9DEDC</color><color name="on_error_container">#410E0B</color><color name="background">#FFFBFE</color><color name="on_background">#1C1B1F</color><color name="surface">#FFFBFE</color><color name="on_surface">#1C1B1F</color><color name="surface_variant">#E7E0EC</color><color name="on_surface_variant">#49454F</color><color name="outline">#79747E</color><color name="muted_red">#EF5350</color><color name="active_green">#66BB6A</color><color name="warning_amber">#FFCA28</color><color name="black">#FF000000</color><color name="white">#FFFFFFFF</color></file><file path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">TeamsClone</string><string name="login">Login</string><string name="register">Register</string><string name="email">Email</string><string name="password">Password</string><string name="confirm_password">Confirm Password</string><string name="forgot_password">Forgot Password?</string><string name="full_name">Full Name</string><string name="sign_in_with_google">Sign in with Google</string><string name="sign_up">Sign Up</string><string name="already_have_account">Already have an account? Sign in</string><string name="dont_have_account">Don\'t have an account? Sign up</string><string name="logout">Logout</string><string name="create_meeting">Create Meeting</string><string name="join_meeting">Join Meeting</string><string name="meeting_id">Meeting ID</string><string name="meeting_password">Meeting Password (Optional)</string><string name="meeting_title">Meeting Title</string><string name="meeting_description">Meeting Description</string><string name="meeting_date">Meeting Date</string><string name="meeting_time">Meeting Time</string><string name="meeting_duration">Duration (minutes)</string><string name="schedule_meeting">Schedule Meeting</string><string name="start_now">Start Now</string><string name="invite_participants">Invite Participants</string><string name="end_meeting">End Meeting</string><string name="leave_meeting">Leave Meeting</string><string name="meeting_settings">Meeting Settings</string><string name="mute">Mute</string><string name="unmute">Unmute</string><string name="video_on">Video On</string><string name="video_off">Video Off</string><string name="share_screen">Share Screen</string><string name="stop_sharing">Stop Sharing</string><string name="participants">Participants</string><string name="chat">Chat</string><string name="more_options">More Options</string><string name="record">Record</string><string name="stop_recording">Stop Recording</string><string name="raise_hand">Raise Hand</string><string name="lower_hand">Lower Hand</string><string name="send_message">Send Message</string><string name="attach_file">Attach File</string><string name="message_hint">Type a message…</string><string name="file_sent">File sent</string><string name="file_received">File received</string><string name="home">Home</string><string name="meetings">Meetings</string><string name="chat_nav">Chat</string><string name="profile">Profile</string><string name="edit_profile">Edit Profile</string><string name="save_changes">Save Changes</string><string name="change_photo">Change Photo</string><string name="display_name">Display Name</string><string name="job_title">Job Title</string><string name="phone">Phone Number</string><string name="status">Status</string><string name="error_invalid_email">Invalid email address</string><string name="error_invalid_password">Password must be at least 6 characters</string><string name="error_passwords_dont_match">Passwords don\'t match</string><string name="error_field_required">This field is required</string><string name="error_login_failed">Login failed</string><string name="error_registration_failed">Registration failed</string><string name="error_network">Network error. Please check your connection</string><string name="error_meeting_not_found">Meeting not found</string><string name="error_permission_denied">Permission denied</string><string name="error_camera_mic_permission">Camera and microphone permissions are required</string><string name="cancel">Cancel</string><string name="ok">OK</string><string name="yes">Yes</string><string name="no">No</string><string name="settings">Settings</string><string name="notification_settings">Notification Settings</string><string name="about">About</string><string name="help">Help</string><string name="version">Version</string></file><file path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.TeamsClone" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/on_primary</item>
+        <item name="colorPrimaryContainer">@color/primary_container</item>
+        <item name="colorOnPrimaryContainer">@color/on_primary_container</item>
+        
+        
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="colorOnSecondary">@color/on_secondary</item>
+        <item name="colorSecondaryContainer">@color/secondary_container</item>
+        <item name="colorOnSecondaryContainer">@color/on_secondary_container</item>
+        
+        
+        <item name="colorTertiary">@color/tertiary</item>
+        <item name="colorOnTertiary">@color/on_tertiary</item>
+        <item name="colorTertiaryContainer">@color/tertiary_container</item>
+        <item name="colorOnTertiaryContainer">@color/on_tertiary_container</item>
+        
+        
+        <item name="colorError">@color/error</item>
+        <item name="colorOnError">@color/on_error</item>
+        <item name="colorErrorContainer">@color/error_container</item>
+        <item name="colorOnErrorContainer">@color/on_error_container</item>
+        
+        
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorOnBackground">@color/on_background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        
+        
+        <item name="colorSurfaceVariant">@color/surface_variant</item>
+        <item name="colorOnSurfaceVariant">@color/on_surface_variant</item>
+        <item name="colorOutline">@color/outline</item>
+        
+        
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        
+        
+        <item name="android:windowBackground">@color/background</item>
+    </style><style name="Theme.TeamsClone.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/primary</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.TeamsClone</item>
+    </style><style name="Theme.TeamsClone.Dialog" parent="ThemeOverlay.Material3.Dialog.Alert">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:background">@color/surface</item>
+    </style><style name="Widget.TeamsClone.Button" parent="Widget.Material3.Button">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="cornerRadius">24dp</item>
+    </style><style name="Widget.TeamsClone.Button.OutlinedButton" parent="Widget.Material3.Button.OutlinedButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="cornerRadius">24dp</item>
+    </style><style name="Widget.TeamsClone.Button.TextButton" parent="Widget.Material3.Button.TextButton">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:paddingStart">16dp</item>
+        <item name="android:paddingEnd">16dp</item>
+        <item name="android:paddingTop">8dp</item>
+        <item name="android:paddingBottom">8dp</item>
+    </style><style name="Widget.TeamsClone.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+    </style></file><file path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.TeamsClone" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">#D0BCFF</item>
+        <item name="colorOnPrimary">#381E72</item>
+        <item name="colorPrimaryContainer">#4F378B</item>
+        <item name="colorOnPrimaryContainer">#EADDFF</item>
+        
+        
+        <item name="colorSecondary">#CCC2DC</item>
+        <item name="colorOnSecondary">#332D41</item>
+        <item name="colorSecondaryContainer">#4A4458</item>
+        <item name="colorOnSecondaryContainer">#E8DEF8</item>
+        
+        
+        <item name="colorTertiary">#EFB8C8</item>
+        <item name="colorOnTertiary">#492532</item>
+        <item name="colorTertiaryContainer">#633B48</item>
+        <item name="colorOnTertiaryContainer">#FFD8E4</item>
+        
+        
+        <item name="colorError">#F2B8B5</item>
+        <item name="colorOnError">#601410</item>
+        <item name="colorErrorContainer">#8C1D18</item>
+        <item name="colorOnErrorContainer">#F9DEDC</item>
+        
+        
+        <item name="android:colorBackground">#1C1B1F</item>
+        <item name="colorOnBackground">#E6E1E5</item>
+        <item name="colorSurface">#1C1B1F</item>
+        <item name="colorOnSurface">#E6E1E5</item>
+        
+        
+        <item name="colorSurfaceVariant">#49454F</item>
+        <item name="colorOnSurfaceVariant">#CAC4D0</item>
+        <item name="colorOutline">#938F99</item>
+        
+        
+        <item name="android:statusBarColor">#1C1B1F</item>
+        <item name="android:navigationBarColor">#1C1B1F</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        
+        
+        <item name="android:windowBackground">#1C1B1F</item>
+    </style><style name="Theme.TeamsClone.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#1C1B1F</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_logo</item>
+        <item name="windowSplashScreenAnimationDuration">1000</item>
+        <item name="postSplashScreenTheme">@style/Theme.TeamsClone</item>
+    </style><style name="Theme.TeamsClone.Dialog" parent="ThemeOverlay.Material3.Dialog.Alert">
+        <item name="colorPrimary">#D0BCFF</item>
+        <item name="colorSecondary">#CCC2DC</item>
+        <item name="android:background">#1C1B1F</item>
+    </style></file><file name="backup_rules" path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/><file name="file_paths" path="C:\Users\nitis\Desktop\conferencing\app\src\main\res\xml\file_paths.xml" qualifiers="" type="xml"/></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\build\generated\res\resValues\debug"/><source path="C:\Users\nitis\Desktop\conferencing\app\build\generated\res\google-services\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\nitis\Desktop\conferencing\app\build\generated\res\resValues\debug"/><source path="C:\Users\nitis\Desktop\conferencing\app\build\generated\res\google-services\debug"><file path="C:\Users\nitis\Desktop\conferencing\app\build\generated\res\google-services\debug\values\values.xml" qualifiers=""><string name="gcm_defaultSenderId" translatable="false">151790066158</string><string name="google_api_key" translatable="false">AIzaSyDzhP0R5oZ5YS13ZuKoiCwxOsM3PyUWmlI</string><string name="google_app_id" translatable="false">1:151790066158:android:cdccf5465af834db31d6ff</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyDzhP0R5oZ5YS13ZuKoiCwxOsM3PyUWmlI</string><string name="google_storage_bucket" translatable="false">android-5fbbc.firebasestorage.app</string><string name="project_id" translatable="false">android-5fbbc</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="legacy_api_res$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="legacy_api_res" generated-set="legacy_api_res$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

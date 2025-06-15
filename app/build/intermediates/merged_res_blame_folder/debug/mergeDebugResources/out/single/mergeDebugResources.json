@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.videoconf.app-debug-83:/xml_file_paths.xml.flat",
+        "source": "com.videoconf.app-main-85:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.videoconf.app-debug-83:/xml_backup_rules.xml.flat",
+        "source": "com.videoconf.app-main-85:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.videoconf.app-debug-83:/xml_data_extraction_rules.xml.flat",
+        "source": "com.videoconf.app-main-85:/xml/data_extraction_rules.xml"
+    }
+]

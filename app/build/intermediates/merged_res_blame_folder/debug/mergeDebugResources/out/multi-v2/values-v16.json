@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.videoconf.app-mergeDebugResources-81:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\nitis\\.gradle\\caches\\8.11.1\\transforms\\dd0a592de625db1445a08c0c52c32510\\transformed\\core-1.10.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\nitis\\.gradle\\caches\\8.11.1\\transforms\\9e255aeb09b66a7582c6d3372ad85162\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
