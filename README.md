@@ -2,7 +2,7 @@
 
 A Flutter video conferencing application using WebRTC for real-time communication.
 
-## Features
+## Features.
 
 - Create and join video meetings
 - Real-time video and audio streaming
